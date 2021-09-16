@@ -4,7 +4,6 @@ import {BiNotepad} from "react-icons/bi"
 export default function LogInCard() {
     return (
         <>
-        <div className="col-span-12  text-center mt-32 text-lg font-bold italic"><div className="sm:w-4/6 md:w-3/6 lg:w-2/6  d-blue-green-bg m-auto rounded py-10 custom-b-shadow grey-text text-2xl"><span className="l-blue-green-text">A</span>ll your notes in one plac<span className="l-blue-green-text">e</span></div></div>
         <form className="col-span-12 sm:col-span-10 sm:col-start-2 md:col-span-8 md:col-start-3 lg:col-span-6 lg:col-start-4 xl:col-span-4 xl:col-start-5 blue-green-gradient rounded  mt-3 mb-16 px-5 custom-b-shadow">
             <h2 className="text-center text-3xl font-bold my-5">
                 <span className="ed-blue-green-text">Log </span>
