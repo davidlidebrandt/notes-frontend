@@ -70,3 +70,11 @@ body {
 .grey-text {
   color: #f0eef9;
 }
+
+/*Utilites*/
+
+.center-absolute-x {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%)
+}
