@@ -13,7 +13,7 @@ export default function NavBar() {
           <div className={showModal + " fixed m-blue-green-bg top-36 right-0 w-1/2 xl:w-1/4 z-100 py-3 rounded border"}>
          
           <div className="py-20">
-          <a className="block text-center d-blue-green-bg mt-10  grey-bg ed-blue-green-text font-bold text-2xl py-4 rounded mx-5">Home</a>
+          <a className="block text-center mt-10 border ed-blue-green-text font-bold text-2xl py-4 rounded mx-5">Home</a>
               <a className="block text-center d-blue-green-bg mt-10 grey-text font-bold text-2xl py-4 rounded mx-5">Log In</a>
               <a className="block text-center font-bold mt-10 text-2xl py-4 rounded mt-2 grey-text yellow-bg mx-5 mb-20">Sign Up</a>
               <button className="absolute bottom-0 mb-10 block ed-blue m-auto-green-text mt-20 text-center center-absolute-x">

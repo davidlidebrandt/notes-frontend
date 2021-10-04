@@ -15,8 +15,8 @@ export default function LogInCard() {
             <input className="block m-auto w-full grey-bg text-center text-xl rounded mb-5 py-3 ed-blue-green-text" type="password"></input>
             <button type="submit" className="d-blue-green-bg w-full grey-text font-bold text-2xl py-4 rounded border">Log In</button>
             <p className="text-center font-bold text-lg mt-12 grey-text">No account yet?</p>
-            <a className="block m-auto text-center font-bold text-2xl py-3 w-2/3 rounded border mt-2 ed-blue-green-text">Sign Up</a>
-            <button className="block m-auto mb-10 text-center d-blue-green-bg border font-bold text-2xl py-3 w-1/6 rounded border mt-12 grey-text">Help</button>
+            <a className="block m-auto text-center font-bold text-2xl py-3 w-2/3 rounded border mt-2 text-white yellow-bg">Sign Up</a>
+            <button className="block m-auto mb-10 text-center  border font-bold text-2xl py-3 w-1/4 rounded border mt-12 ed-blue-green-text">Help</button>
         </form>
         </>
     ) 
